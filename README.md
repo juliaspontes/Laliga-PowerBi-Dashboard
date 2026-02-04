@@ -34,7 +34,7 @@ O objetivo foi transformar dados brutos em insights visuais claros, facilitando 
 - Mais do que construir gráficos, a proposta foi contar uma história através dos dados.
 
 🚀 Sobre mim
-Estou em constante evolução na área de dados, desenvolvendo projetos voltados para Business Intelligence e Data Analytics.
+- Estou em constante evolução na área de dados, desenvolvendo projetos voltados para Business Intelligence e Data Analytics.
 
 👉 Se quiser trocar ideias ou conectar-se comigo, será um prazer!
 
