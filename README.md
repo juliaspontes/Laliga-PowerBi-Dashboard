@@ -1,4 +1,4 @@
-# 📊 LaLiga Historical Analysis — Power BI Dashboard
+# 📊 LaLiga Historical Analysis Dashboard
 
 Dashboard interativo desenvolvido no Power BI com o objetivo de analisar o histórico da LaLiga, explorando métricas ofensivas e aplicando storytelling com dados para geração de insights estratégicos.
 
@@ -35,8 +35,6 @@ Este projeto reforça minha capacidade de:
 ✅ Construir dashboards analíticos e exploratórios
 ✅ Aplicar storytelling com dados
 ✅ Criar visualizações claras com foco em experiência do usuário
-
-Mais do que apenas apresentar números, a proposta foi contar a história ofensiva da LaLiga através dos dados.
 
 ⭐ Se este projeto foi interessante para você, considere deixar uma estrela no repositório — isso ajuda muito e apoia meu trabalho!
 
