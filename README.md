@@ -7,11 +7,11 @@ Dashboard interativo desenvolvido no Power BI com o objetivo de analisar o hist�
 Transformar dados históricos da LaLiga em visualizações claras e intuitivas, permitindo identificar padrões ofensivos, comparar desempenhos ao longo das temporadas e apoiar análises baseadas em dados.
 
 ## 🧠 Principais Análises
-✔️ Temporada mais ofensiva
-✔️ Média de gols por jogo
-✔️ Comparação de gols como mandante vs visitante
-✔️ Evolução de gols por rodada
-✔️ Identificação da maior goleada do período
+✔️ Temporada mais ofensiva  
+✔️ Média de gols por jogo  
+✔️ Comparação de gols como mandante vs visitante  
+✔️ Evolução de gols por rodada  
+✔️ Identificação da maior goleada do período  
 
 ## 📈 Insights que podem ser extraídos
 - Algumas temporadas concentram maior volume ofensivo
@@ -31,10 +31,10 @@ Transformar dados históricos da LaLiga em visualizações claras e intuitivas, 
 ## 🎯 Sobre o Projeto
 Este projeto reforça minha capacidade de:
 
-✅ Analisar dados históricos esportivos
-✅ Construir dashboards analíticos e exploratórios
-✅ Aplicar storytelling com dados
-✅ Criar visualizações claras com foco em experiência do usuário
+✅ Analisar dados históricos esportivos  
+✅ Construir dashboards analíticos e exploratórios  
+✅ Aplicar storytelling com dados  
+✅ Criar visualizações claras com foco em experiência do usuário  
 
 ⭐ Se este projeto foi interessante para você, considere deixar uma estrela no repositório — isso ajuda muito e apoia meu trabalho!
 
